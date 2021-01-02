@@ -108,7 +108,7 @@
           <div class="camera">
             <div class="webcam" id="webcam-container"></div>
           </div>
-          <button id="button" class="button" onclick="startStop()">Start Camera</button>
+          <button id="button" class="button" onclick="startStop()">Start/Pause Camera</button>
         </div>
         <div class="right">
           <div class="top-right">
